@@ -1,0 +1,2 @@
+This is a sample for the filehandling in the java.
+This is the secondline in the file1.txt
